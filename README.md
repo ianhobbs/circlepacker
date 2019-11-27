@@ -1,6 +1,8 @@
 circlepacker
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/snorpey/circlepacker.svg)](https://greenkeeper.io/)
+
 downloads
 ---
 * [circlepacker.min.js](https://raw.githubusercontent.com/snorpey/circlepacker/master/dist/circlepacker.min.js) 8kb (3kb gzipped)
